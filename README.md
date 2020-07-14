@@ -1,5 +1,4 @@
 # Flask
 
-Learning flask and experimentation
+Learning through tutorial on microblog and future development/experimentation
 
-Adding text to test github configuration settings
